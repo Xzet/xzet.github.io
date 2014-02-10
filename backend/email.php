@@ -4,8 +4,8 @@
 // Define custom variables
 // ===========================================
 
-$emailTo = 'sample@apporiented.com';
-$nameTo  = 'apporiented.com';
+$emailTo = 'yjsoft@yjsoft.pe.kr';
+$nameTo  = 'yjsoft.pe.kr';
 
 // ===========================================
 // Validate and send email
